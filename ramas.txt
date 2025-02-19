@@ -1,0 +1,16 @@
+en git, una rama p branch es una linea de desarrollo independiente 
+que permite trabajr en nuevas caracteristicas, correcciones de
+errores o cualquier modificacion sin afectar directamente la rama principal del proyecto 
+
+se crean de una rama existente, generalmete 
+main o master 
+
+                    master
+                             --------rama_3
+
+
+                        rama_secundaria 
+                                        rama_4
+
+
+
